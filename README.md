@@ -1,0 +1,2 @@
+# okTRXTelegram
+一款开源ai自动预测下周欧易TRX币价的Telegram机器人！
