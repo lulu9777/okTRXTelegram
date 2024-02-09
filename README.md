@@ -1,4 +1,4 @@
-# okTRXTelegram
+# 一款开源ai自动预测下周欧易TRX币价的Telegram机器人！
 
 ## 介绍
 **okTRXTelegram** 是一款开源的AI Telegram机器人，专门预测下周欧易（OKEx）TRX币价！
